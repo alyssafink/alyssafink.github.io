@@ -21,7 +21,7 @@ repository               : "alyssafink/alyssafink.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilephoto.png"
   name             : "Alyssa Fink"
   pronouns         : # add pronouns here
   bio              : "MS Architecture Student & Research Fellow"
