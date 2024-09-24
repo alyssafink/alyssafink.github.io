@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Alyssa Fink"
-  pronouns         : "she / they"
+  pronouns         : # add pronouns here
   bio              : "MS Architecture Student & Research Fellow"
   location         : "Tucson, AZ"
   employer         : "University of Arizona"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/alyssa-fink-391ba0224"
+  linkedin         : "alyssa-fink-391ba0224"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
