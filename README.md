@@ -1,5 +1,6 @@
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
+I can edit this repository in CodeSpaces
 
 # Getting Started
 
