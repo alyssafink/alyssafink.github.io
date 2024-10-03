@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Alyssa Fink"
 title_separator          : "-"
 name                     : &name "Alyssa Fink"
-description              : &description "MS Architecture Student & Research Fellow"
+description              : &description "MS Architecture Student | Research Fellow | CPHC"
 url                      : https://alyssafink.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alyssafink/alyssafink.github.io"
