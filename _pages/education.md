@@ -9,7 +9,7 @@ redirect_from:
 
 Master of Science in Architecture
 ---
-College of Architecture, Planning, & Landscape Architecture, University of Arizona
+*University of Arizona*
 <br/>
 Aug 2024 - Dec 2025
 <br/>
@@ -17,7 +17,7 @@ GPA: 4.0
 
 Bachelor of Architecture
 ---
-College of Architecture, Planning, & Landscape Architecture, University of Arizona
+*University of Arizona*
 <br/>
 Aug 2019 - May 2024
 <br/>
