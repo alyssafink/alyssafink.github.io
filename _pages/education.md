@@ -2,7 +2,6 @@
 permalink: /education/
 title: "Education"
 author_profile: true
-date: 3/3/3034
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
