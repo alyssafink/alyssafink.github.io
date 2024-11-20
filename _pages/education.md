@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Master of Science in Architecture
------
+---
 *The University of Arizona*
 
 :  GPA: 4.0
