@@ -9,18 +9,18 @@ redirect_from:
 
 Master of Science in Architecture
 ---
-Aug 2024 - Dec 2025
+College of Architecture, Planning, & Landscape Architecture, University of Arizona
 
-The University of Arizona
+Aug 2024 - Dec 2025
 
 GPA: 4.0
 
 Bachelor of Architecture
 ---
+College of Architecture, Planning, & Landscape Architecture, University of Arizona
+
 Aug 2019 - May 2024
 
-The University of Arizona
-
-GPA: 4.0
+Thesis: Tucson Window Calculator
 
 Emphasis: Policy & Design
