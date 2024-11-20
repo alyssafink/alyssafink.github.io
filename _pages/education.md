@@ -1,6 +1,6 @@
 ---
 permalink: /education/
-title: "Page not in menu"
+title: "Education"
 author_profile: true
 redirect_from: 
   - "/nmp/"
