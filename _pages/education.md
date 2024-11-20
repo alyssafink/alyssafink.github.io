@@ -12,7 +12,7 @@ This is a page not in the menu. You can use markdown in this page.
 Master of Science in Architecture
 -----
 *The University of Arizona*
-
+:  GPA: 4.0
 
 Heading 2
 ======
