@@ -24,6 +24,7 @@ Emphasis: Policy & Design
 Cumulative GPA: 4.0
 
 ***
+
 :clipboard: Phius Certified Consultant
 ---
 *Phius* | *September 2023*
