@@ -15,9 +15,7 @@ GPA: 4.0
 
 Bachelor of Architecture
 ---
-*University of Arizona*
-<br/>
-Aug 2019 - May 2024
+*University of Arizona* | *May 2024*
 <br/>
 Thesis: A Tucson Homeowner's Guide to Window Retrofits
 <br/>
