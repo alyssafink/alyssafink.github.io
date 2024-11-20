@@ -7,13 +7,13 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Master of Science in Architecture
+:mortar_board: Master of Science in Architecture
 ---
 *University of Arizona* | *Dec 2025*
 <br/>
 GPA: 4.0
 
-Bachelor of Architecture
+:mortar_board: Bachelor of Architecture
 ---
 *University of Arizona* | *May 2024*
 <br/>
