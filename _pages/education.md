@@ -9,7 +9,7 @@ redirect_from:
 
 Master of Science in Architecture
 ---
-*University of Arizona* | Aug 2024 - Dec 2025
+*University of Arizona* | Dec 2025
 <br/>
 GPA: 4.0
 
