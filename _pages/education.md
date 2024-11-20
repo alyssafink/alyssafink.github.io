@@ -22,3 +22,15 @@ Thesis: A Tucson Homeowner's Guide to Window Retrofits
 Emphasis: Policy & Design
 <br/>
 Cumulative GPA: 4.0
+
+***
+:clipboard: Phius Certified Consultant
+---
+*Phius* | *September 2023*
+<br/>
+Thesis: A Tucson Homeowner's Guide to Window Retrofits
+<br/>
+Emphasis: Policy & Design
+<br/>
+Cumulative GPA: 4.0
+
