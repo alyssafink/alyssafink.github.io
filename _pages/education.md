@@ -21,6 +21,8 @@ Bachelor of Architecture
 <br/>
 Aug 2019 - May 2024
 <br/>
-Thesis: Tucson Window Calculator
+Thesis: A Tucson Homeowner's Guide to Window Retrofits
 <br/>
 Emphasis: Policy & Design
+<br/>
+Cumulative GPA: 4.0
