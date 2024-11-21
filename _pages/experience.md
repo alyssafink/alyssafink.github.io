@@ -33,8 +33,8 @@ redirect_from:
 
 ### Architectural Student Intern
 ***
-<br/>
 *May 2022 - August 2022* | *Corgan - Healthcare*
+<br/>
 • Organized and delivered engaging verbal and visual presentations to clients and field expert groups of 5-400 people.
 <br/>
 • Collaborated on construction documentation.
@@ -42,6 +42,7 @@ redirect_from:
 ### Collaborative Sustainability Fellow
 ***
 *August 2021 - May 2022* | *University Climate Change Coalition*
+<br/>
 • Collaborated with stakeholders for mutual understanding of shared values and objectives. 
 <br/>
 • Crafted a compelling educational resource based on detailed research of a complex environmental issue.
