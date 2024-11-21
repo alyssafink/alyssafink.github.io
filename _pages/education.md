@@ -15,7 +15,7 @@ GPA: 4.0
 <br/>
 <details>
   <summary>Key coursework</summary>
-  * SBE 580 Research Methods
+* SBE 580 Research Methods
   <br/>
   * HDFS 536 Introductory Graduate Statistics
   <br/>
