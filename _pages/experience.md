@@ -6,4 +6,11 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-this is a test
+
+Architecture Intern
+---
+*April 2023 - Present* | *Swaim Associates Architects*
+<br/>
+• Spearheading the incorporation of building energy modeling into the design process for efficiency-based decision-making.
+• Crafting compelling visuals to effectively facilitate discussion of complex concepts with clients and consultants.
+• Collaborating on construction documentation for multifamily, commercial, and healthcare projects.
