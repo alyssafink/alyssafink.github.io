@@ -14,8 +14,14 @@ redirect_from:
 GPA: 4.0
 <br/>
 <details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
+  <summary>Key coursework</summary>
+  SBE 580 Research Methods
+  <br/>
+  HDFS 536 Introductory Graduate Statistics
+  <br/>
+  SOC 500A Sociological Theory
+  <br/>
+  INFO 578 Science Information & Its Presentation
 </details>
 
 :mortar_board: Bachelor of Architecture
@@ -29,8 +35,14 @@ Emphasis: Policy & Design
 GPA: 4.0
 <br/>
 <details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
+  <summary>Key coursework</summary>
+  ARC 410F Solar Decathlon Design Studio
+  <br/>
+  ARC 471N Arid Region Urbanism
+  <br/>
+  ARC 496B Climate Positive Detailing & Design
+  <br/>
+  ARC 410F Design Build Studio
 </details>
 
 ***
