@@ -15,17 +15,17 @@ GPA: 4.0
 <br/>
 <details>
   <summary>Key coursework</summary>
-  SBE 580 Research Methods
+  * SBE 580 Research Methods
   <br/>
-  HDFS 536 Introductory Graduate Statistics
+  * HDFS 536 Introductory Graduate Statistics
   <br/>
-  SOC 500A Sociological Theory
+  * SOC 500A Sociological Theory
   <br/>
-  INFO 578 Science Information & Its Presentation
+  * INFO 578 Science Information & Its Presentation
   <br/>
-  ARC 561M Energy Efficient Design
+  * ARC 561M Energy Efficient Design
   <br/>
-  ARC 561N Energy Auditing & Modeling
+  * ARC 561N Energy Auditing & Modeling
 </details>
 
 :mortar_board: Bachelor of Architecture
@@ -40,13 +40,13 @@ GPA: 4.0
 <br/>
 <details>
   <summary>Key coursework</summary>
-  ARC 410F Solar Decathlon Design Studio
+  * ARC 410F Solar Decathlon Design Studio
   <br/>
-  ARC 471N Arid Region Urbanism
+  * ARC 471N Arid Region Urbanism
   <br/>
-  ARC 496B Climate Positive Detailing & Design
+  * ARC 496B Climate Positive Detailing & Design
   <br/>
-  ARC 410F Design Build Studio
+  * ARC 410F Design Build Studio
 </details>
 
 ***
