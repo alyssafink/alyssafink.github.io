@@ -22,6 +22,10 @@ GPA: 4.0
   SOC 500A Sociological Theory
   <br/>
   INFO 578 Science Information & Its Presentation
+  <br/>
+  ARC 561M Energy Efficient Design
+  <br/>
+  ARC 561N Energy Auditing & Modeling
 </details>
 
 :mortar_board: Bachelor of Architecture
