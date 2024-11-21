@@ -1,6 +1,6 @@
 ---
 title: "Tucson Window Calculator V1"
-excerpt: "An online tool for comparing window upgrade options <br/><img src='Fink_Alyssa_Capstone_Full Board.jpg'>"
+excerpt: "An online tool for comparing window upgrade options <br/><img src='/images/Fink_Alyssa_Capstone_Full Board.jpg'>"
 collection: portfolio
 ---
 
