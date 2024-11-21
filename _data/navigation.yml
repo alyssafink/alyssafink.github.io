@@ -12,13 +12,13 @@ main:
     url: /education/
 
   - title: "Service"
-    url: /education/
+    url: /service/
     
   - title: "Portfolio"
     url: /portfolio/
 
   - title: "Awards"
-    url: /portfolio/
+    url: /awards/
 
   - title: "Guide"
     url: /markdown/
