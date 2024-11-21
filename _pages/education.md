@@ -26,5 +26,5 @@ GPA: 4.0
 ***
 ***
 
-### :clipboard: Phius Certified Consultant
+### Phius Certified Consultant
 *Phius* | *September 2023*
