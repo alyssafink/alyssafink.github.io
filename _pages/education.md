@@ -7,6 +7,41 @@ redirect_from:
   - "/nmp.html"
 ---
 
+<div class="box">
+:mortar_board: Master of Science in Architecture
+---
+*University of Arizona* | *Dec 2025*
+<br/>
+GPA: 4.0
+<br/>
+<details>
+  <summary>Key coursework</summary>
+* SBE 580 Research Methods
+  <br/>
+  * HDFS 536 Introductory Graduate Statistics
+  <br/>
+  * SOC 500A Sociological Theory
+  <br/>
+  * INFO 578 Science Information & Its Presentation
+  <br/>
+  * ARC 561M Energy Efficient Design
+  <br/>
+  * ARC 561N Energy Auditing & Modeling
+</details>
+</div>
+
+<style>
+.box {
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  max-width: 300px;
+  margin: 10px auto;
+}
+</style>
+
+
 :mortar_board: Master of Science in Architecture
 ---
 *University of Arizona* | *Dec 2025*
