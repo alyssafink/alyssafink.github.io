@@ -52,5 +52,5 @@ GPA: 4.0
 ***
 ***
 
-### Phius Certified Consultant
+### Phius Certified Consultant (CPHC)
 *Phius* | *September 2023*
