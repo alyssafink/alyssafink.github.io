@@ -8,30 +8,28 @@ redirect_from:
 ---
 
 ### Architecture Intern
-<br/>
 ***
-<br/>
 *April 2023 - Present* | *Swaim Associates Architects*
 <br/>
-* Spearheading the incorporation of building energy modeling into the design process for efficiency-based decision-making.
+• Spearheading the incorporation of building energy modeling into the design process for efficiency-based decision-making.
 <br/>
-* Crafting compelling visuals to effectively facilitate discussion of complex concepts with clients and consultants.
+• Crafting compelling visuals to effectively facilitate discussion of complex concepts with clients and consultants.
 <br/>
-* Collaborating on construction documentation for multifamily, commercial, and healthcare projects.
+• Collaborating on construction documentation for multifamily, commercial, and healthcare projects.
 
 ### Building Science Teaching Assistant
 ***
 *August 2023 - December 2023* | *University of Arizona*
 <br/>
-* Assisted in the design and implementation of hands-on building science curriculum for an 80-person class.
+• Assisted in the design and implementation of hands-on building science curriculum for an 80-person class.
 
 ### Design Intern
 ***
 *August 2022 - April 2023* | *Culdesac*
 <br/>
-* Created 13+ data-focused internal research reports from scratch evaluating design solutions for a novel car-free community.
+• Created 13+ data-focused internal research reports from scratch evaluating design solutions for a novel car-free community.
 <br/>
-* Established evaluation criteria for residential community design and operations practices to guide complex decisions.
+• Established evaluation criteria for residential community design and operations practices to guide complex decisions.
 
 ### Architectural Student Intern
 ***
