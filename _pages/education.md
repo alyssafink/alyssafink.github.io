@@ -12,6 +12,11 @@ redirect_from:
 *University of Arizona* | *Dec 2025*
 <br/>
 GPA: 4.0
+<br/>
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
 
 :mortar_board: Bachelor of Architecture
 ---
@@ -22,6 +27,11 @@ Thesis: A Tucson Homeowner's Guide to Window Retrofits
 Emphasis: Policy & Design
 <br/>
 GPA: 4.0
+<br/>
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
 
 ***
 ***
